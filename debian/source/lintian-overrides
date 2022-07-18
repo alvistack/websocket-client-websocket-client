@@ -1,0 +1,3 @@
+python-websocket-client source: no-debian-changes
+python-websocket-client source: source-contains-prebuilt-windows-binary
+python-websocket-client source: source-package-encodes-python-version
