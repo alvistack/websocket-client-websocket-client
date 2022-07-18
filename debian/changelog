@@ -1,0 +1,5 @@
+python-websocket-client (100:1.2.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/websocket-client/websocket-client/releases/tag/v1.2.2
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Tue, 07 Dec 2021 14:00:37 +0800
