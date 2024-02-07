@@ -28,3 +28,4 @@ docs/build/
 .coverage
 coverage.xml
 
+.pybuild/
